@@ -1,5 +1,5 @@
 import style from './style.module.css'
-
+import React from 'react'
 export default function Contact() {
     return <>
         <div className="title mt-5 flex justify-center items-center flex-col">

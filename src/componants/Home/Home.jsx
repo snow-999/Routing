@@ -1,5 +1,5 @@
 import logo from '../../img/img.svg'
-
+import React from 'react'
 export default function Home() {
     return <>
         <div className="Home flex justify-center items-center flex-col text-center">
